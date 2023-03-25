@@ -52,6 +52,12 @@ build CMakeFiles/Arbol_Binario_Ordenado.dir/main.cpp.o: CXX_COMPILER__Arbol_Bina
   OBJECT_DIR = CMakeFiles/Arbol_Binario_Ordenado.dir
   OBJECT_FILE_DIR = CMakeFiles/Arbol_Binario_Ordenado.dir
 
+build CMakeFiles/Arbol_Binario_Ordenado.dir/Nodo.cpp.o: CXX_COMPILER__Arbol_Binario_Ordenado_Debug /Users/case/CLionProjects/Arbol-Binario-Ordenado/Nodo.cpp || cmake_object_order_depends_target_Arbol_Binario_Ordenado
+  DEP_FILE = CMakeFiles/Arbol_Binario_Ordenado.dir/Nodo.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++11
+  OBJECT_DIR = CMakeFiles/Arbol_Binario_Ordenado.dir
+  OBJECT_FILE_DIR = CMakeFiles/Arbol_Binario_Ordenado.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Arbol_Binario_Ordenado
@@ -60,7 +66,7 @@ build CMakeFiles/Arbol_Binario_Ordenado.dir/main.cpp.o: CXX_COMPILER__Arbol_Bina
 #############################################
 # Link the executable Arbol_Binario_Ordenado
 
-build Arbol_Binario_Ordenado: CXX_EXECUTABLE_LINKER__Arbol_Binario_Ordenado_Debug CMakeFiles/Arbol_Binario_Ordenado.dir/main.cpp.o
+build Arbol_Binario_Ordenado: CXX_EXECUTABLE_LINKER__Arbol_Binario_Ordenado_Debug CMakeFiles/Arbol_Binario_Ordenado.dir/main.cpp.o CMakeFiles/Arbol_Binario_Ordenado.dir/Nodo.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/Arbol_Binario_Ordenado.dir
   POST_BUILD = :

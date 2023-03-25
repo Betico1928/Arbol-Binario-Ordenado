@@ -5,4 +5,10 @@
 #ifndef ARBOL_BINARIO_ORDENADO_NODO_H
 #define ARBOL_BINARIO_ORDENADO_NODO_H
 
+
+class Nodo {
+
+};
+
+
 #endif //ARBOL_BINARIO_ORDENADO_NODO_H
