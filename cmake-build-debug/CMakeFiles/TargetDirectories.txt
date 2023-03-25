@@ -1,3 +1,2 @@
-/Users/case/CLionProjects/Arbol-Binario-Ordenado/cmake-build-debug/CMakeFiles/Arbol_Binario_Ordenado.dir
 /Users/case/CLionProjects/Arbol-Binario-Ordenado/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/case/CLionProjects/Arbol-Binario-Ordenado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

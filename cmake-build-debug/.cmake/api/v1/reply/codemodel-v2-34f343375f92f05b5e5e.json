@@ -12,11 +12,7 @@
 						"string" : "3.24"
 					},
 					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"source" : "."
 				}
 			],
 			"name" : "Debug",
@@ -27,23 +23,10 @@
 					[
 						0
 					],
-					"name" : "Arbol_Binario_Ordenado",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"name" : "Arbol_Binario_Ordenado"
 				}
 			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "Arbol_Binario_Ordenado::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Arbol_Binario_Ordenado-Debug-3e8daf05a7b9ecee2062.json",
-					"name" : "Arbol_Binario_Ordenado",
-					"projectIndex" : 0
-				}
-			]
+			"targets" : []
 		}
 	],
 	"kind" : "codemodel",
