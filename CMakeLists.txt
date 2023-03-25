@@ -3,4 +3,4 @@ project(Arbol_Binario_Ordenado)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Arbol_Binario_Ordenado main.cpp)
+add_executable(Arbol_Binario_Ordenado main.cpp Nodo.h)
