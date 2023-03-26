@@ -53,5 +53,5 @@ void NodoBinario<T>::fijarDato(T valor)
 template < class T >
 NodoBinario<T>* NodoBinario<T>::obtenerHijoIzquierdo()
 {
-    
+
 }
